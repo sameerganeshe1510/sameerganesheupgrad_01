@@ -41,5 +41,5 @@ maximize business opportunities.
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
 
 ## Contributors
-Sameer Ganeshe
-Soumy Dholu
+### Sameer Ganeshe
+### Soumy DhoLu
