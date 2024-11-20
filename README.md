@@ -41,11 +41,11 @@ maximize business opportunities.
 Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore.
 
 ## Technologies used
-### Pandas version 2.2.2
-### NumPy version 1.26.4
-### Seaborn version: 0.13.2
-### Datetime version: Builtin Module, no version
-### Warnings Module: Builtin Module, no version
+  #### Pandas version 2.2.2
+  #### NumPy version 1.26.4
+  #### Seaborn version: 0.13.2
+  #### Datetime version: Builtin Module, no version
+  #### Warnings Module: Builtin Module, no version
 
 ## Contributors
 ### Sameer Ganeshe
