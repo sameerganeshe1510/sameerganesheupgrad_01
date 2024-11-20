@@ -30,6 +30,7 @@ maximize business opportunities.
 #### Step 4: Performing Outlier analysis to remove outliers
 #### Step 5: Performing Univariate, Segmented & Bivariate Analysis
 #### Step 6: Performing Correlation Analysis
+#### Step 7: EDA Conclusion & Recommendation
 
 ## Summary
  Following files has been inlcluded as a part of solutions:
